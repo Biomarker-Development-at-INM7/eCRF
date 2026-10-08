@@ -9,6 +9,9 @@ The application supports a lightweight local workstation profile and a hosted
 server profile. It is developed by the Biomarker Development Group at INM-7,
 Forschungszentrum Jülich.
 
+A standalone version of Case-E ist also available here:
+https://github.com/Biomarker-Development-at-INM7/case-e
+
 ## Start here
 
 | Resource | Link |
